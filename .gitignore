@@ -32,5 +32,11 @@ build/
 ### VS Code ###
 .vscode/
 
+### log directory ###
+logs/
+
+### Mavon directory ###
+.mvn/
+
 ### React and front end
 /node_modules/
